@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url><loc>https://easybites.blog/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+    <url><loc>https://easybites.blog/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://easybites.blog/contact/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+    <url><loc>https://easybites.blog/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+    <url>
+        <loc>https://easybites.blog/recipes/mediterranean-chickpea-bowl/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200</image:loc>
+            <image:title>Mediterranean Chickpea Bowl</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easybites.blog/recipes/garlic-butter-shrimp-noodles/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=1200</image:loc>
+            <image:title>Garlic Butter Shrimp Noodles</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easybites.blog/recipes/spicy-black-bean-tacos/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1200</image:loc>
+            <image:title>Spicy Black Bean Tacos</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easybites.blog/recipes/avocado-toast-poached-egg/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1525351484163-7529414344d8?w=1200</image:loc>
+            <image:title>Avocado Toast with Poached Egg</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easybites.blog/recipes/creamy-tuscan-chicken-pasta/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1200</image:loc>
+            <image:title>Creamy Tuscan Chicken Pasta</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easybites.blog/recipes/honey-sriracha-chicken-wrap/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=1200</image:loc>
+            <image:title>Honey Sriracha Chicken Wrap</image:title>
+        </image:image>
+    </url>
+</urlset>
